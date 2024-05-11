@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Go, Java and Formula 1**
 
-- 📫 You can reach me at **harshpreetsingh277@gmail.com**
+- 📫 You can reach me at **Harshpreet.Singh@dal.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
