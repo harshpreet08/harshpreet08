@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshpreet Singh</h1>
 <h3 align="center">Masters of Applied Computer Science student at Dalhousie University</h3>
 
-- 🔭 I’m currently working on [Cucumber Reporting](https://github.com/damianszczepanik/cucumber-reporting)
+- 🔭 I’m currently working at Kinaxis as Software Developer Intern, Algorithms
+- I have contributed to open source project: [Cucumber Reporting](https://github.com/damianszczepanik/cucumber-reporting)
 
 - 💬 Ask me about **Go, Java and Formula 1**
 
