@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at Kinaxis as Software Developer Intern, Algorithms
 - I have contributed to open source project: [Cucumber Reporting](https://github.com/damianszczepanik/cucumber-reporting)
 
-- 💬 Ask me about **Go, Java and Formula 1**
+- 💬 Ask me about **C++, Go, Java and Formula 1**
 
 - 📫 You can reach me at **Harshpreet.Singh@dal.ca**
 
